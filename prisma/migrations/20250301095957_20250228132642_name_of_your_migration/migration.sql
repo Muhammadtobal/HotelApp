@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE `user` ADD COLUMN `optExires` DATETIME(3) NULL,
+    ADD COLUMN `otp` INTEGER NULL;
